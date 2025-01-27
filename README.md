@@ -41,7 +41,6 @@
 
 - [MDN JavaScript Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  
 - [JavaScript.info](https://javascript.info/)  
-- [FreeCodeCamp JavaScript Tutorials](https://www.freecodecamp.org/)  
 
 ---
 
